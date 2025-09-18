@@ -13,6 +13,7 @@
 
 ## R packages
 
+- tglow-r (R package for HCI analysis): https://github.com/TrynkaLab/tglow-r
 - *poodleR* (Donor unmixing using least squares): https://github.com/TrynkaLab/poodleR
 - *ProliferationAnalysis* (FACS proliferation analysis of complex mixtures in R): https://github.com/TrynkaLab/ProliferationAnalysis
 
