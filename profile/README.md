@@ -7,7 +7,7 @@ We love collaboration, reproducibility, and turning complex data into biological
 
 ---
 
-## 🧫 Publication repositories  
+## 📰 Publication repositories  
 
 - [Perez_Alcantara_pooled_iMGL](https://github.com/TrynkaLab/Perez_Alcantara_pooled_iMGL)  
 - [VIDRA](https://github.com/TrynkaLab/VIDRA)  
@@ -18,20 +18,24 @@ We love collaboration, reproducibility, and turning complex data into biological
 - [CellDivider](https://github.com/TrynkaLab/CellDivider)
 ---
 
+## 🔬High content imagaging with TGlow
+
+- **tglow-r** — R package for HCI feature analysis: [tglow-r](https://github.com/TrynkaLab/tglow-r)  
+- **tglow-pipeline** - A Nextflow pipeline for HCI processing: [tglow-pipeline](https://github.com/TrynkaLab/tglow-pipeline)
+- **tglow-core** Python package supporting the tglow-pipeline [tglow-core](https://github.com/TrynkaLab/tglow-core)
+  
+---
+
 ## 📊 R packages  
 
-- **tglow-r** — R package for HCI analysis: [tglow-r](https://github.com/TrynkaLab/tglow-r)  
 - **poodleR** — Donor unmixing using least squares: [poodleR](https://github.com/TrynkaLab/poodleR)  
-- **ProliferationAnalysis** — FACS proliferation analysis of complex mixtures in R: [ProliferationAnalysis](https://github.com/TrynkaLab/ProliferationAnalysis)  
-
+- **ProliferationAnalysis** — FACS proliferation analysis of complex mixtures in R: [ProliferationAnalysis](https://github.com/TrynkaLab/ProliferationAnalysis)
+  
 ---
 
-## 🔬 Nextflow pipelines  
-
-- **sc-blipper** — Single-cell post-processing running cNMF and gene set enrichments: [sc-blipper](https://github.com/TrynkaLab/sc-blipper)  
-- **tglow-pipeline** - A Nextflow pipeline for HCI processing: [tglow-pipeline](https://github.com/TrynkaLab/tglow-pipeline)
+## ⚙️ Nextflow pipelines  
+- **sc-blipper** — Single-cell post-processing running cNMF and gene set enrichments: [sc-blipper](https://github.com/TrynkaLab/sc-blipper)
+  
 ---
-
 ## 🧠 Other software and tools  
-- **tglow-core** Python package supporting the Tglow pipeline [tglow-core](https://github.com/TrynkaLab/tglow-core)
 - **CHEERS** — Genetic enrichment of chromatin peaks: [CHEERS](https://github.com/TrynkaLab/CHEERS)  
