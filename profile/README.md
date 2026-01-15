@@ -15,23 +15,23 @@ We love collaboration, reproducibility, and turning complex data into biological
 - [Omenn_paper](https://github.com/TrynkaLab/Omenn_paper)  
 - [Treg_Multiomics](https://github.com/TrynkaLab/Treg_Multiomics)  
 - [T-cell-costimulation](https://github.com/TrynkaLab/T-cell-costimulation)  
-
+- [CellDivider](https://github.com/TrynkaLab/CellDivider)
 ---
 
 ## 📊 R packages  
 
-- **tglow-r** — R package for HCI analysis: [https://github.com/TrynkaLab/tglow-r](https://github.com/TrynkaLab/tglow-r)  
-- **poodleR** — Donor unmixing using least squares: [https://github.com/TrynkaLab/poodleR](https://github.com/TrynkaLab/poodleR)  
-- **ProliferationAnalysis** — FACS proliferation analysis of complex mixtures in R: [https://github.com/TrynkaLab/ProliferationAnalysis](https://github.com/TrynkaLab/ProliferationAnalysis)  
+- **tglow-r** — R package for HCI analysis: [tglow-r](https://github.com/TrynkaLab/tglow-r)  
+- **poodleR** — Donor unmixing using least squares: [poodleR](https://github.com/TrynkaLab/poodleR)  
+- **ProliferationAnalysis** — FACS proliferation analysis of complex mixtures in R: [ProliferationAnalysis](https://github.com/TrynkaLab/ProliferationAnalysis)  
 
 ---
 
 ## 🔬 Nextflow pipelines  
 
-- **sc-blipper** — Single-cell post-processing running cNMF and gene set enrichments: [https://github.com/TrynkaLab/sc-blipper](https://github.com/TrynkaLab/sc-blipper)  
-
+- **sc-blipper** — Single-cell post-processing running cNMF and gene set enrichments: [sc-blipper](https://github.com/TrynkaLab/sc-blipper)  
+- **tglow-pipeline** - A Nextflow pipeline for HCI processing: [tglow-pipeline](https://github.com/TrynkaLab/tglow-pipeline)
 ---
 
 ## 🧠 Other software and tools  
-
-- **CHEERS** — Genetic enrichment of chromatin peaks: [https://github.com/TrynkaLab/CHEERS](https://github.com/TrynkaLab/CHEERS)  
+- **tglow-core** Python package supporting the Tglow pipeline [tglow-core](https://github.com/TrynkaLab/tglow-core)
+- **CHEERS** — Genetic enrichment of chromatin peaks: [CHEERS](https://github.com/TrynkaLab/CHEERS)  
