@@ -23,7 +23,7 @@ We love collaboration, reproducibility, and turning complex data into biological
 - **tglow-r** — R package for HCI feature analysis: [tglow-r](https://github.com/TrynkaLab/tglow-r)  
 - **tglow-pipeline** - A Nextflow pipeline for HCI processing: [tglow-pipeline](https://github.com/TrynkaLab/tglow-pipeline)
 - **tglow-core** - Python package supporting the tglow-pipeline [tglow-core](https://github.com/TrynkaLab/tglow-core)
-- **tglow-dino4cells** - https://github.com/TrynkaLab/tglow-dino4cells
+- **tglow-dino4cells** - Adaptation of DINO4Cells which produces multi-channel embeddings [tglow-dino4cells](https://github.com/TrynkaLab/tglow-dino4cells)
   
 ---
 
