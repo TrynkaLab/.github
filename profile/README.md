@@ -7,7 +7,7 @@ We love collaboration, reproducibility, and turning complex data into biological
 
 ---
 
-## 📰 Publication repositories  
+## 📰 Publications
 
 - [Perez_Alcantara_pooled_iMGL](https://github.com/TrynkaLab/Perez_Alcantara_pooled_iMGL)  
 - [VIDRA](https://github.com/TrynkaLab/VIDRA)  
@@ -16,6 +16,7 @@ We love collaboration, reproducibility, and turning complex data into biological
 - [Treg_Multiomics](https://github.com/TrynkaLab/Treg_Multiomics)  
 - [T-cell-costimulation](https://github.com/TrynkaLab/T-cell-costimulation)  
 - [CellDivider](https://github.com/TrynkaLab/CellDivider)
+- [TGlow](https://github.com/TrynkaLab/tglow-manuscript)
 ---
 
 ## 🔬High content imagaging with TGlow
@@ -24,19 +25,20 @@ We love collaboration, reproducibility, and turning complex data into biological
 - **tglow-pipeline** - A Nextflow pipeline for HCI processing: [tglow-pipeline](https://github.com/TrynkaLab/tglow-pipeline)
 - **tglow-core** - Python package supporting the tglow-pipeline [tglow-core](https://github.com/TrynkaLab/tglow-core)
 - **tglow-dino4cells** - Adaptation of DINO4Cells which produces multi-channel embeddings [tglow-dino4cells](https://github.com/TrynkaLab/tglow-dino4cells)
-  
+- **tglow-manuscript** - Instance scripts supporting the tglow manuscript [tglow-manuscript](https://github.com/TrynkaLab/tglow-manuscript) 
 ---
 
 ## 📊 R packages  
 
 - **poodleR** — Donor unmixing using least squares: [poodleR](https://github.com/TrynkaLab/poodleR)  
 - **ProliferationAnalysis** — FACS proliferation analysis of complex mixtures in R: [ProliferationAnalysis](https://github.com/TrynkaLab/ProliferationAnalysis)
-  
+- **tglow-r** — R package for HCI feature analysis: [tglow-r](https://github.com/TrynkaLab/tglow-r)   
 ---
 
 ## ⚙️ Nextflow pipelines  
 - **sc-blipper** — Single-cell post-processing running cNMF and gene set enrichments: [sc-blipper](https://github.com/TrynkaLab/sc-blipper)
-  
+- **tglow-pipeline** - A Nextflow pipeline for HCI processing: [tglow-pipeline](https://github.com/TrynkaLab/tglow-pipeline)
+
 ---
-## 🧠 Other software and tools  
+## 🧠 Other software and tools  and models
 - **CHEERS** — Genetic enrichment of chromatin peaks: [CHEERS](https://github.com/TrynkaLab/CHEERS)  
