@@ -7,7 +7,7 @@ We love collaboration, reproducibility, and turning complex data into biological
 
 ---
 
-## 📰 Publications
+## 📰 Publications & Manuscripts
 
 - [Perez_Alcantara_pooled_iMGL](https://github.com/TrynkaLab/Perez_Alcantara_pooled_iMGL)  
 - [VIDRA](https://github.com/TrynkaLab/VIDRA)  
@@ -41,4 +41,5 @@ We love collaboration, reproducibility, and turning complex data into biological
 
 ---
 ## 🧠 Other software and tools  and models
-- **CHEERS** — Genetic enrichment of chromatin peaks: [CHEERS](https://github.com/TrynkaLab/CHEERS)  
+- **CHEERS** — Genetic enrichment of chromatin peaks: [CHEERS](https://github.com/TrynkaLab/CHEERS)
+- **CellDivider mlp** Model training code for the CellDivider model: [CellDivider_mlp](https://github.com/TrynkaLab/CellDivider_mlp)
