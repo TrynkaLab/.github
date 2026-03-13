@@ -17,6 +17,7 @@ We love collaboration, reproducibility, and turning complex data into biological
 - [T-cell-costimulation](https://github.com/TrynkaLab/T-cell-costimulation)  
 - [CellDivider](https://github.com/TrynkaLab/CellDivider)
 - [TGlow](https://github.com/TrynkaLab/tglow-manuscript)
+- [Effectorness](https://github.com/eddiecg/T-cell-effectorness)
 ---
 
 ## 🔬High content imagaging with TGlow
@@ -32,7 +33,8 @@ We love collaboration, reproducibility, and turning complex data into biological
 
 - **poodleR** — Donor unmixing using least squares: [poodleR](https://github.com/TrynkaLab/poodleR)  
 - **ProliferationAnalysis** — FACS proliferation analysis of complex mixtures in R: [ProliferationAnalysis](https://github.com/TrynkaLab/ProliferationAnalysis)
-- **tglow-r** — R package for HCI feature analysis: [tglow-r](https://github.com/TrynkaLab/tglow-r)   
+- **tglow-r** — R package for HCI feature analysis: [tglow-r](https://github.com/TrynkaLab/tglow-r)
+- **proteogenomic** - Find specificly expressed proteins and genes [proteogenomic](https://github.com/eddiecg/proteogenomic)
 ---
 
 ## ⚙️ Nextflow pipelines  
