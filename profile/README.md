@@ -5,6 +5,8 @@ We’re the **Trynka Group** at the **Wellcome Sanger Institute**, exploring how
 Here you’ll find our open-source repositories, tools, and pipelines developed to advance the study of **immune cell regulation**, **genetic association**, and **multi-omics integration**.  
 We love collaboration, reproducibility, and turning complex data into biological insight—so feel free to explore, reuse, or contribute! 🧬✨  
 
+For documentation, check out trynkalab.github.io
+
 ---
 
 ## 📰 Publications & Manuscripts
