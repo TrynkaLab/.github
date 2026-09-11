@@ -42,6 +42,7 @@ For documentation, check out [trynkalab.github.io](https://trynkalab.github.io)
 ## ⚙️ Nextflow pipelines  
 - **sc-blipper** — Single-cell post-processing running cNMF and gene set enrichments: [sc-blipper](https://github.com/TrynkaLab/sc-blipper)
 - **tglow-pipeline** - A Nextflow pipeline for HCI processing: [tglow-pipeline](https://github.com/TrynkaLab/tglow-pipeline)
+- **edit-qaunt** - Simple pipeline to align primers and guides and run crispresso2 [edit-quant](https://github.com/TrynkaLab/edit-quant)
 
 ---
 ## 🧠 Other software and tools  and models
